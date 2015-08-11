@@ -1,5 +1,5 @@
 {
-  "name": "mean",
+  "name": "mean-example",
   "version": "0.0.1",
   "description": "MEAN stack test project.",
   "main": "index.js",
